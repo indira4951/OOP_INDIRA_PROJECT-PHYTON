@@ -1,0 +1,2 @@
+print("monkeys can climbs"); print("crickets can leap"); print("horses can race"); print("owls can seek")
+print("cheetahs can run"); print("eagles can fly"); print("people can try"); print("but that's about it")
